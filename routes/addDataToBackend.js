@@ -19,7 +19,4 @@ addRouter.post("/add",async(req,res)=>{
 module.exports={addRouter}
 
 
-///FD
-// kasndakmamasddofeof
-// adfmasmakmdmd
-//aksmdfksmkmfkmd
+
